@@ -341,6 +341,11 @@
   overflow: hidden;
 }
 
+.gallery-item img:hover {
+  transform: scale(1.1);
+}
+
+
 .gallery-item img {
   display: block;
   width: 100%;
